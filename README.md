@@ -10,5 +10,4 @@ v1.1 displays coins properly when a P-Switch isn't active.
 
 Created by 1superchip
 
-Credits to https://github.com/Maseya/SMAS-Disassembly & https://github.com/captainsouthbird/smb3 & Joe Smo
-#1032 for ASM help
+Credits to https://github.com/Maseya/SMAS-Disassembly & https://github.com/captainsouthbird/smb3 & Joe Smo#1032 for ASM help
